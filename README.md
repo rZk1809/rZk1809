@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-Hi there 👋, This is Rohith gk, a Computer Science and Engineering student at Vellore Institute of Technology, Chennai.<br>🔭 I’m currently working on end-to-end ML pipelines.<br>👯 I’m looking to collaborate on research areas in the domain of deep learning <br>🌱 I’m currently learning AWS, Database Management and exploring the ever expanding domain of computer science and its latest innovations
+Hi there 👋, This is Rohith gk, a Computer Science and Engineering student at Vellore Institute of Technology, Chennai.<br>🔭 I’m currently working on end-to-end ML pipelines.<br>👯 I’m looking to collaborate on research areas in the domain of deep learning. <br>🌱 I’m currently learning AWS, Database Management and exploring the ever expanding domain of computer science and its latest innovations.
 
 
 ## 🌐 Socials:
