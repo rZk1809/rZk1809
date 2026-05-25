@@ -160,14 +160,21 @@ Here are the types of projects I enjoy building:
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=rZk1809&show_icons=true&theme=tokyonight&hide_border=true" 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rZk1809&theme=tokyonight" 
+    alt="GitHub Profile Summary"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rZk1809&theme=tokyonight" 
     height="180"
-    alt="Rohith's GitHub Stats"
+    alt="Repos Per Language"
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rZk1809&theme=tokyonight&hide_border=true&layout=compact" 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rZk1809&theme=tokyonight" 
     height="180"
-    alt="Top Languages"
+    alt="Most Commit Language"
   />
 </p>
 
