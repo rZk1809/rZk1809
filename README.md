@@ -489,7 +489,6 @@ My work isn't about picking one lane — it's about **fusing them together** to 
   <img alt="Snake animation" src="https://raw.githubusercontent.com/rZk1809/rZk1809/output/github-snake-dark.svg" />
 </picture>
 
-<sub>☝️ Set up the <a href="https://github.com/Platane/snk">snake workflow</a> in your profile repo to activate this!</sub>
 
 </div>
 
