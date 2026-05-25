@@ -1,21 +1,218 @@
+<h1 align="center">Hi 👋, I'm Rohith Ganesh Kanchi</h1>
 
-# 💫 About Me:
-Hi there 👋, This is Rohith gk, a Computer Science and Engineering student at Vellore Institute of Technology, Chennai.<br>🔭 I’m currently working on end-to-end ML pipelines and scalable full stack applications.<br>👯 I’m looking to collaborate on research areas in the domain of deep learning. <br>🌱 I’m currently learning AWS, Database Management and exploring the ever expanding domain of computer science and its latest innovations.
+<h3 align="center">
+Computer Science Engineering Student | ML Engineer | Full Stack Developer | Research Enthusiast
+</h3>
 
+<p align="center">
+  <a href="https://linkedin.com/in/rohith-ganesh-kanchi-2a790132b">
+    <img src="https://img.shields.io/badge/LinkedIn-Rohith%20Ganesh%20Kanchi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:rgk1809@gmail.com">
+    <img src="https://img.shields.io/badge/Email-rgk1809%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://youtube.com/@rgk9252">
+    <img src="https://img.shields.io/badge/YouTube-RGK9252-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+</p>
 
-## 🌐 Socials:
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rohith-ganesh-kanchi-2a790132b/)
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rgk1809@gmail.com) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@rgk9252)
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=flat&logo=streamlit&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=flat&logo=nVIDIA&logoColor=green) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rZk1809&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=rZk1809&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rZk1809&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=rZk1809&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rZk1809&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=rZk1809&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## 🚀 About Me
+
+I’m **Rohith Ganesh Kanchi**, a Computer Science and Engineering student at **Vellore Institute of Technology, Chennai**, passionate about building intelligent, scalable, and meaningful software systems.
+
+My work sits at the intersection of **Machine Learning**, **Full Stack Engineering**, **Cloud Computing**, and **Research-Oriented AI Systems**. I enjoy transforming ideas into real-world projects, from ML pipelines and AI-powered applications to scalable web platforms and research prototypes.
+
+Currently, I’m exploring **AWS**, **Database Management Systems**, **Deep Learning**, and modern software architectures that combine intelligence, performance, and clean engineering.
+
+---
+
+## 🧠 What I’m Currently Working On
+
+- Building **end-to-end Machine Learning pipelines**
+- Developing **scalable full stack applications**
+- Exploring **deep learning research areas**
+- Learning and applying **AWS cloud services**
+- Strengthening my foundation in **DBMS, system design, and software engineering**
+- Working on AI-driven solutions involving **Computer Vision, NLP, RAG systems, and automation**
+
+---
+
+## 🤝 Open to Collaborate On
+
+I’m interested in collaborating on:
+
+- Deep Learning research projects
+- Computer Vision applications
+- AI-powered developer tools
+- Full stack SaaS platforms
+- Scalable backend systems
+- Cloud-native applications
+- Research prototypes that can evolve into real-world products
+
+---
+
+## 🧩 Areas of Interest
+
+```txt
+Machine Learning        Deep Learning          Computer Vision
+Full Stack Development  Cloud Computing        Database Systems
+Generative AI           Research Engineering   Scalable Systems
+Software Architecture   DevOps                 Applied AI
+```
+
+---
+
+## 🛠️ Tech Stack
+
+### Programming Languages
+
+<p>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+</p>
+
+### Web Development
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
+  <img src="https://img.shields.io/badge/Streamlit-FE4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</p>
+
+### Machine Learning & Data Science
+
+<p>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black" />
+  <img src="https://img.shields.io/badge/SciPy-0C55A5?style=for-the-badge&logo=scipy&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/CUDA-000000?style=for-the-badge&logo=nvidia&logoColor=green" />
+</p>
+
+### Databases
+
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
+
+### DevOps & Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows%20Terminal-4D4D4D?style=for-the-badge&logo=windowsterminal&logoColor=white" />
+</p>
+
+---
+
+## 🧪 Research & Engineering Focus
+
+I’m especially interested in building AI systems that are not just models, but complete intelligent ecosystems.
+
+My current learning and project direction includes:
+
+- End-to-end ML model training and deployment
+- Deep learning model experimentation
+- Computer vision-based intelligent systems
+- Full stack AI applications
+- AI-powered automation tools
+- Scalable backend architecture
+- Cloud deployment and MLOps foundations
+- Database-driven application design
+
+---
+
+## 📌 Featured Project Themes
+
+Here are the types of projects I enjoy building:
+
+| Domain | What I Build |
+|---|---|
+| Machine Learning | Classification systems, prediction models, AI pipelines |
+| Computer Vision | Detection, recognition, image/video intelligence systems |
+| Full Stack | Scalable web apps, dashboards, platforms |
+| Cloud | AWS-based deployments and backend services |
+| Databases | Structured and unstructured data-driven applications |
+| Research | Deep learning experiments and prototype systems |
+| DevOps | Dockerized applications and deployment workflows |
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rZk1809&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rZk1809&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=rZk1809&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🏆 Contribution Highlights
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=rZk1809&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
+</p>
+
+---
+
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rZk1809&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## 🌱 Currently Learning
+
+```txt
+AWS Cloud Services
+Database Management Systems
+Deep Learning Architectures
+Scalable Backend Engineering
+System Design Fundamentals
+MLOps and AI Deployment
+```
+
+---
+
+## 💬 Let’s Connect
+
+I’m always open to discussing research ideas, AI projects, full stack products, and collaboration opportunities.
+
+<p align="center">
+  <a href="https://linkedin.com/in/rohith-ganesh-kanchi-2a790132b">
+    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:rgk1809@gmail.com">
+    <img src="https://img.shields.io/badge/Send%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<h3 align="center">
+  Building intelligent systems, one commit at a time.
+</h3>
