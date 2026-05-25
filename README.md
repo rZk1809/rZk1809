@@ -159,20 +159,34 @@ Here are the types of projects I enjoy building:
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rZk1809&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rZk1809&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="180"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=rZk1809&show_icons=true&theme=tokyonight&hide_border=true" 
+    height="180"
+    alt="Rohith's GitHub Stats"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rZk1809&theme=tokyonight&hide_border=true&layout=compact" 
+    height="180"
+    alt="Top Languages"
+  />
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=rZk1809&theme=tokyonight&hide_border=true" />
+  <img 
+    src="https://streak-stats.demolab.com?user=rZk1809&theme=tokyonight&hide_border=true" 
+    alt="GitHub Streak"
+  />
 </p>
 
 ---
 
-## 🏆 Contribution Highlights
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=rZk1809&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=rZk1809&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" 
+    alt="GitHub Trophies"
+  />
 </p>
 
 ---
@@ -180,7 +194,10 @@ Here are the types of projects I enjoy building:
 ## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rZk1809&theme=tokyo-night&hide_border=true" />
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=rZk1809&theme=tokyo-night&hide_border=true" 
+    alt="Contribution Graph"
+  />
 </p>
 
 ---
