@@ -1,242 +1,555 @@
-<h1 align="center">Hi 👋, I'm Rohith Ganesh Kanchi</h1>
+<div align="center">
 
-<h3 align="center">
-Computer Science Engineering Student | ML Engineer | Full Stack Developer | Research Enthusiast
-</h3>
+<!-- HERO SECTION — Dynamic Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:161b22,50:1f6feb,75:58a6ff,100:79c0ff&height=220&section=header&text=Rohith%20Ganesh%20Kanchi&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Architecting%20Intelligence%20•%20Engineering%20the%20Future&descSize=16&descAlignY=55&descAlign=50" width="100%" />
 
-<p align="center">
-  <a href="https://linkedin.com/in/rohith-ganesh-kanchi-2a790132b">
-    <img src="https://img.shields.io/badge/LinkedIn-Rohith%20Ganesh%20Kanchi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:rgk1809@gmail.com">
-    <img src="https://img.shields.io/badge/Email-rgk1809%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://youtube.com/@rgk9252">
-    <img src="https://img.shields.io/badge/YouTube-RGK9252-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-</p>
+<!-- TYPING ANIMATION -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=%E2%9A%A1+ML+Engineer+%7C+Full+Stack+Developer;%F0%9F%94%AC+Research+Enthusiast+%7C+Cloud+Architect;%F0%9F%8E%AF+Building+AI+Systems+That+Matter" alt="Typing SVG" />
+</a>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rZk1809&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views" />
-</p>
+<br/>
 
----
+<!-- SOCIAL LINKS — Sleek Minimal -->
+<a href="https://linkedin.com/in/rohith-ganesh-kanchi-2a790132b">
+  <img src="https://img.shields.io/badge/-%E2%86%92%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>&nbsp;
+<a href="mailto:rgk1809@gmail.com">
+  <img src="https://img.shields.io/badge/-%E2%86%92%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>&nbsp;
+<a href="https://youtube.com/@rgk9252">
+  <img src="https://img.shields.io/badge/-%E2%86%92%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
 
-## 🚀 About Me
+<br/><br/>
 
-I’m **Rohith Ganesh Kanchi**, a Computer Science and Engineering student at **Vellore Institute of Technology, Chennai**, passionate about building intelligent, scalable, and meaningful software systems.
+<img src="https://komarev.com/ghpvc/?username=rZk1809&label=Visitors&color=1f6feb&style=flat-square&labelColor=0d1117" alt="Profile Views" />
+&nbsp;&nbsp;
+<img src="https://img.shields.io/github/followers/rZk1809?label=Followers&style=flat-square&color=58a6ff&labelColor=0d1117" alt="Followers" />
+&nbsp;&nbsp;
+<img src="https://img.shields.io/github/stars/rZk1809?label=Stars&style=flat-square&color=e3b341&labelColor=0d1117" alt="Stars" />
 
-My work sits at the intersection of **Machine Learning**, **Full Stack Engineering**, **Cloud Computing**, and **Research-Oriented AI Systems**. I enjoy transforming ideas into real-world projects, from ML pipelines and AI-powered applications to scalable web platforms and research prototypes.
+</div>
 
-Currently, I’m exploring **AWS**, **Database Management Systems**, **Deep Learning**, and modern software architectures that combine intelligence, performance, and clean engineering.
+<br/>
 
----
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- TERMINAL INTRO SECTION -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-## 🧠 What I’m Currently Working On
+```js
+// ~/rohith-ganesh-kanchi/init.js
 
-- Building **end-to-end Machine Learning pipelines**
-- Developing **scalable full stack applications**
-- Exploring **deep learning research areas**
-- Learning and applying **AWS cloud services**
-- Strengthening my foundation in **DBMS, system design, and software engineering**
-- Working on AI-driven solutions involving **Computer Vision, NLP, RAG systems, and automation**
-
----
-
-## 🤝 Open to Collaborate On
-
-I’m interested in collaborating on:
-
-- Deep Learning research projects
-- Computer Vision applications
-- AI-powered developer tools
-- Full stack SaaS platforms
-- Scalable backend systems
-- Cloud-native applications
-- Research prototypes that can evolve into real-world products
-
----
-
-## 🧩 Areas of Interest
-
-```txt
-Machine Learning        Deep Learning          Computer Vision
-Full Stack Development  Cloud Computing        Database Systems
-Generative AI           Research Engineering   Scalable Systems
-Software Architecture   DevOps                 Applied AI
+const rohith = {
+    pronouns: "he/him",
+    location: "VIT Chennai, India",
+    role: "CS Engineering Student × ML Engineer × Full Stack Developer",
+    
+    currentFocus: [
+        "End-to-end ML Pipelines",
+        "Deep Learning Research",
+        "Scalable Full Stack Applications",
+        "AWS Cloud Architecture"
+    ],
+    
+    askMeAbout: [
+        "Machine Learning", "Computer Vision", "NLP",
+        "Full Stack Dev", "System Design", "Cloud Computing"
+    ],
+    
+    reachMe: "rgk1809@gmail.com",
+    funFact: "I debug neural networks for fun 🧠"
+};
 ```
 
----
+<br/>
 
-## 🛠️ Tech Stack
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ABOUT — Narrative Style -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-### Programming Languages
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=1&section=header" width="100%" />
+</div>
 
-<p>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
-</p>
+<h2>
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+  &nbsp;Who am I?
+</h2>
 
-### Web Development
+> *"I don't just write code — I architect intelligent systems that learn, adapt, and scale."*
 
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
-  <img src="https://img.shields.io/badge/Streamlit-FE4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-</p>
+I'm a **Computer Science & Engineering** student at **VIT Chennai** operating at the intersection of four powerful domains:
 
-### Machine Learning & Data Science
+<table>
+<tr>
+<td width="25%" align="center">
 
-<p>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black" />
-  <img src="https://img.shields.io/badge/SciPy-0C55A5?style=for-the-badge&logo=scipy&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/CUDA-000000?style=for-the-badge&logo=nvidia&logoColor=green" />
-</p>
+**🧠 Machine Learning**
+<br/>
+<sub>Models that think</sub>
 
-### Databases
+</td>
+<td width="25%" align="center">
 
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-</p>
+**⚡ Full Stack**
+<br/>
+<sub>Systems that scale</sub>
 
-### DevOps & Tools
+</td>
+<td width="25%" align="center">
 
-<p>
-  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
-  <img src="https://img.shields.io/badge/Windows%20Terminal-4D4D4D?style=for-the-badge&logo=windowsterminal&logoColor=white" />
-</p>
+**☁️ Cloud Computing**
+<br/>
+<sub>Infrastructure that breathes</sub>
 
----
+</td>
+<td width="25%" align="center">
 
-## 🧪 Research & Engineering Focus
+**🔬 Research**
+<br/>
+<sub>Ideas that matter</sub>
 
-I’m especially interested in building AI systems that are not just models, but complete intelligent ecosystems.
+</td>
+</tr>
+</table>
 
-My current learning and project direction includes:
+My work isn't about picking one lane — it's about **fusing them together** to build complete intelligent ecosystems: from training the model → deploying the API → building the interface → scaling to production.
 
-- End-to-end ML model training and deployment
-- Deep learning model experimentation
-- Computer vision-based intelligent systems
-- Full stack AI applications
-- AI-powered automation tools
-- Scalable backend architecture
-- Cloud deployment and MLOps foundations
-- Database-driven application design
+<br/>
 
----
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- WHAT I'M BUILDING — Interactive Collapsible -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-## 📌 Featured Project Themes
+<h2>
+  🔭 &nbsp;What I'm Building Right Now
+</h2>
 
-Here are the types of projects I enjoy building:
+<details>
+<summary><b>🤖 AI & Machine Learning</b> — Click to expand</summary>
+<br/>
 
-| Domain | What I Build |
-|---|---|
-| Machine Learning | Classification systems, prediction models, AI pipelines |
-| Computer Vision | Detection, recognition, image/video intelligence systems |
-| Full Stack | Scalable web apps, dashboards, platforms |
-| Cloud | AWS-based deployments and backend services |
-| Databases | Structured and unstructured data-driven applications |
-| Research | Deep learning experiments and prototype systems |
-| DevOps | Dockerized applications and deployment workflows |
+| Status | Project Focus | Description |
+|:---:|---|---|
+| 🟢 | **End-to-End ML Pipelines** | Data ingestion → Feature engineering → Training → Evaluation → Deployment |
+| 🟢 | **Computer Vision Systems** | Detection, recognition, and image/video intelligence |
+| 🔵 | **NLP & RAG Systems** | Retrieval-augmented generation for context-aware AI |
+| 🔵 | **Deep Learning Research** | Experimenting with novel architectures and training strategies |
 
----
+</details>
 
-## 📊 GitHub Analytics
+<details>
+<summary><b>🌐 Full Stack & Cloud</b> — Click to expand</summary>
+<br/>
 
-<p align="center">
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rZk1809&theme=tokyonight" 
-    alt="GitHub Profile Summary"
-  />
-</p>
+| Status | Project Focus | Description |
+|:---:|---|---|
+| 🟢 | **Scalable Web Applications** | Production-ready platforms with clean architecture |
+| 🟢 | **AWS Cloud Services** | Infrastructure-as-code, serverless, and managed services |
+| 🔵 | **Backend Engineering** | High-performance APIs, microservices, and system design |
+| 🔵 | **MLOps Foundations** | CI/CD for ML, model versioning, and monitoring |
 
-<p align="center">
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rZk1809&theme=tokyonight" 
-    height="180"
-    alt="Repos Per Language"
-  />
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rZk1809&theme=tokyonight" 
-    height="180"
-    alt="Most Commit Language"
-  />
-</p>
+</details>
 
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=rZk1809&theme=tokyonight&hide_border=true" 
-    alt="GitHub Streak"
-  />
-</p>
+<details>
+<summary><b>📚 Learning & Growth</b> — Click to expand</summary>
+<br/>
 
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=rZk1809&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" 
-    alt="GitHub Trophies"
-  />
-</p>
-
----
-
-## 📈 Activity Graph
-
-<p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=rZk1809&theme=tokyo-night&hide_border=true" 
-    alt="Contribution Graph"
-  />
-</p>
-
----
-
-## 🌱 Currently Learning
-
-```txt
-AWS Cloud Services
-Database Management Systems
-Deep Learning Architectures
-Scalable Backend Engineering
-System Design Fundamentals
-MLOps and AI Deployment
+```
+ ╔══════════════════════════════════════════════════════════════╗
+ ║                    2025 Learning Roadmap                     ║
+ ╠══════════════════════════════════════════════════════════════╣
+ ║                                                              ║
+ ║  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░  AWS Cloud Services      75%  ║
+ ║  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░  Deep Learning            70%  ║
+ ║  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░  System Design            65%  ║
+ ║  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░  DBMS Mastery             55%  ║
+ ║  ▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░  MLOps & Deployment       50%  ║
+ ║  ▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░  Scalable Architecture    40%  ║
+ ║                                                              ║
+ ╚══════════════════════════════════════════════════════════════╝
 ```
 
+</details>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- TECH STACK — Visual Grid Layout -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<h2>
+  🛠️ &nbsp;Tech Arsenal
+</h2>
+
+<div align="center">
+
+<!-- Row 1: Languages -->
+<table>
+<tr>
+<td align="center" width="96">
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="48" height="48" />
+  <br/><b>Python</b>
+</td>
+<td align="center" width="96">
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="48" height="48" />
+  <br/><b>JavaScript</b>
+</td>
+<td align="center" width="96">
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="48" height="48" />
+  <br/><b>Java</b>
+</td>
+<td align="center" width="96">
+  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="48" height="48" />
+  <br/><b>C++</b>
+</td>
+<td align="center" width="96">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="48" height="48" />
+  <br/><b>C</b>
+</td>
+<td align="center" width="96">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="48" height="48" />
+  <br/><b>R</b>
+</td>
+</tr>
+</table>
+
+<!-- Row 2: ML/AI -->
+<table>
+<tr>
+<td align="center" width="96">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="48" height="48" />
+  <br/><b>TensorFlow</b>
+</td>
+<td align="center" width="96">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" alt="Keras" width="48" height="48" />
+  <br/><b>Keras</b>
+</td>
+<td align="center" width="96">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="48" height="48" />
+  <br/><b>Scikit-learn</b>
+</td>
+<td align="center" width="96">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="48" height="48" />
+  <br/><b>NumPy</b>
+</td>
+<td align="center" width="96">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="48" height="48" />
+  <br/><b>Pandas</b>
+</td>
+<td align="center" width="96">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="48" height="48" />
+  <br/><b>Matplotlib</b>
+</td>
+</tr>
+</table>
+
+<!-- Row 3: Web / Cloud / DevOps -->
+<table>
+<tr>
+<td align="center" width="96">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48" />
+  <br/><b>HTML5</b>
+</td>
+<td align="center" width="96">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="48" height="48" />
+  <br/><b>FastAPI</b>
+</td>
+<td align="center" width="96">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" alt="Streamlit" width="48" height="48" />
+  <br/><b>Streamlit</b>
+</td>
+<td align="center" width="96">
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="48" height="48" />
+  <br/><b>Docker</b>
+</td>
+<td align="center" width="96">
+  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="48" height="48" />
+  <br/><b>AWS</b>
+</td>
+<td align="center" width="96">
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="48" height="48" />
+  <br/><b>GitHub</b>
+</td>
+</tr>
+</table>
+
+<!-- Row 4: Databases -->
+<table>
+<tr>
+<td align="center" width="96">
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="48" height="48" />
+  <br/><b>MySQL</b>
+</td>
+<td align="center" width="96">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="48" height="48" />
+  <br/><b>MongoDB</b>
+</td>
+<td align="center" width="96">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="48" height="48" />
+  <br/><b>Git</b>
+</td>
+<td align="center" width="96">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="48" height="48" />
+  <br/><b>Linux</b>
+</td>
+<td align="center" width="96">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="48" height="48" />
+  <br/><b>VS Code</b>
+</td>
+<td align="center" width="96">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" alt="Vercel" width="48" height="48" />
+  <br/><b>Vercel</b>
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ENGINEERING PHILOSOPHY — Quote Cards -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<h2>
+  ⚙️ &nbsp;Engineering Philosophy
+</h2>
+
+```
+┌─────────────────────────────────────────────────────────────────────┐
+│                                                                     │
+│   "The best AI systems aren't just accurate —                       │
+│    they're deployed, scalable, and solving real problems."           │
+│                                                                     │
+│   My Principles:                                                    │
+│                                                                     │
+│   ┌─ 🎯 Build complete systems, not just models                    │
+│   ├─ 🏗️  Design for scale from day one                              │
+│   ├─ 🧪 Research with purpose — every experiment should teach       │
+│   ├─ 📐 Clean code is non-negotiable                                │
+│   └─ 🔄 Ship fast, iterate faster                                   │
+│                                                                     │
+└─────────────────────────────────────────────────────────────────────┘
+```
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- PROJECT DOMAINS — Visual Cards -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<h2>
+  📌 &nbsp;What I Build
+</h2>
+
+<div align="center">
+<table>
+<tr>
+<td width="33%">
+
+### 🤖 AI & ML
+- Classification & prediction systems
+- End-to-end ML pipelines
+- Deep learning experiments
+- AI-powered automation
+
+</td>
+<td width="33%">
+
+### 👁️ Computer Vision
+- Object detection & recognition
+- Image/video intelligence
+- Visual search systems
+- Real-time processing
+
+</td>
+<td width="33%">
+
+### 🌐 Full Stack
+- Scalable web platforms
+- Interactive dashboards
+- REST & GraphQL APIs
+- Production-grade SaaS
+
+</td>
+</tr>
+<tr>
+<td width="33%">
+
+### ☁️ Cloud & DevOps
+- AWS deployments
+- Docker containerization
+- CI/CD pipelines
+- Infrastructure as Code
+
+</td>
+<td width="33%">
+
+### 🗄️ Databases
+- Schema design & optimization
+- SQL & NoSQL solutions
+- Data-driven applications
+- Query performance tuning
+
+</td>
+<td width="33%">
+
+### 🔬 Research
+- Novel DL architectures
+- Prototype-to-product
+- RAG & NLP systems
+- Applied AI solutions
+
+</td>
+</tr>
+</table>
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- GITHUB STATS — Immersive Dashboard -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<h2>
+  📊 &nbsp;GitHub Command Center
+</h2>
+
+<div align="center">
+
+<!-- Profile Summary Card — Full Width -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rZk1809&theme=github_dark" width="100%" alt="Profile Details" />
+
+<br/><br/>
+
+<!-- Stats Row -->
+<img src="https://github-readme-stats.vercel.app/api?username=rZk1809&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats" />
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rZk1809&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" height="180" alt="Top Languages" />
+
+<br/><br/>
+
+<!-- Language Breakdown Cards -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rZk1809&theme=github_dark" height="180" alt="Repos Per Language" />
+&nbsp;&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rZk1809&theme=github_dark" height="180" alt="Most Commit Language" />
+
+<br/><br/>
+
+<!-- Streak Stats -->
+<img src="https://streak-stats.demolab.com?user=rZk1809&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=484f58" width="60%" alt="GitHub Streak" />
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- TROPHIES -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<h2>
+  🏆 &nbsp;Achievements
+</h2>
+
+<img src="https://github-profile-trophy.vercel.app/?username=rZk1809&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=7" alt="GitHub Trophies" />
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ACTIVITY GRAPH -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<h2>
+  📈 &nbsp;Contribution Pulse
+</h2>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rZk1809&custom_title=Rohith's%20Contribution%20Graph&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area_color=1f6feb&area=true&hide_border=true&title_color=58a6ff" width="100%" alt="Contribution Graph" />
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- SNAKE ANIMATION -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rZk1809/rZk1809/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rZk1809/rZk1809/output/github-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/rZk1809/rZk1809/output/github-snake-dark.svg" />
+</picture>
+
+<sub>☝️ Set up the <a href="https://github.com/Platane/snk">snake workflow</a> in your profile repo to activate this!</sub>
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- COLLABORATION — CTA Section -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<h2>
+  🤝 &nbsp;Let's Build Something Together
+</h2>
+
+I'm actively looking for collaborators on:
+
+<div align="center">
+
+```
+ 🔬 Deep Learning Research     →  Novel architectures, training strategies
+ 👁️ Computer Vision            →  Detection, recognition, visual AI
+ 🛠️ AI Developer Tools         →  LLM-powered coding assistants, automation
+ 🌐 Full Stack SaaS            →  Production platforms, dashboards
+ ☁️ Cloud-Native Apps          →  AWS, serverless, microservices
+ 🧪 Research → Product         →  Taking prototypes to production
+```
+
+</div>
+
+> **💡 Got an idea?** If it involves AI, scale, or research — I'm interested.
+> Reach out via [LinkedIn](https://linkedin.com/in/rohith-ganesh-kanchi-2a790132b) or [email](mailto:rgk1809@gmail.com).
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- SPOTIFY / QUOTE SECTION -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
 ---
 
-## 💬 Let’s Connect
+<br/>
 
-I’m always open to discussing research ideas, AI projects, full stack products, and collaboration opportunities.
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
 
-<p align="center">
-  <a href="https://linkedin.com/in/rohith-ganesh-kanchi-2a790132b">
-    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:rgk1809@gmail.com">
-    <img src="https://img.shields.io/badge/Send%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+<br/><br/>
 
----
+<!-- FOOTER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:161b22,50:1f6feb,75:58a6ff,100:79c0ff&height=120&section=footer" width="100%" />
 
-<h3 align="center">
-  Building intelligent systems, one commit at a time.
-</h3>
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=4000&pause=2000&color=484F58&center=true&vCenter=true&repeat=true&width=500&lines=Building+intelligent+systems%2C+one+commit+at+a+time.;%E2%9C%A6+Thanks+for+visiting+my+profile+%E2%9C%A6" alt="Footer Typing" />
+
+<br/>
+
+<sub>
+  <b>⚡ Last updated: May 2025</b>
+  <br/>
+  <i>This README is more than a profile — it's a living document of my engineering journey.</i>
+</sub>
+
+</div>
