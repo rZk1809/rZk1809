@@ -11,6 +11,9 @@
 <br/>
 
 <!-- SOCIAL LINKS — Sleek Minimal -->
+<a href="https://rohith-ganesh-kanchi-portfolio.vercel.app">
+  <img src="https://img.shields.io/badge/-%E2%86%92%20Portfolio-7D2430?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>&nbsp;
 <a href="https://linkedin.com/in/rohith-ganesh-kanchi-2a790132b">
   <img src="https://img.shields.io/badge/-%E2%86%92%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>&nbsp;
@@ -30,6 +33,21 @@
 <img src="https://img.shields.io/github/stars/rZk1809?label=Stars&style=flat-square&color=e3b341&labelColor=0d1117" alt="Stars" />
 
 </div>
+
+<br/>
+
+<!-- ENGINEERING PORTFOLIO -->
+
+## Engineering Portfolio
+
+My portfolio presents the implementation decisions, workflows, evaluation evidence, and reliability boundaries behind my work—not only repository summaries.
+
+**[Open the engineering portfolio →](https://rohith-ganesh-kanchi-portfolio.vercel.app)**
+
+- [AgentOS AI](https://rohith-ganesh-kanchi-portfolio.vercel.app/work/agentos-ai) — local-first agent orchestration, retrieval, tools, memory, review, and evaluation
+- [FloatChat](https://rohith-ganesh-kanchi-portfolio.vercel.app/work/floatchat) — hybrid retrieval and analytical tooling for ARGO ocean data
+- [LLMSentinel](https://rohith-ganesh-kanchi-portfolio.vercel.app/work/llmsentinel) — guarded and unguarded LLM security evaluation
+- [RingHunt AI](https://rohith-ganesh-kanchi-portfolio.vercel.app/work/ringhunt-ai) — graph learning and evidence-grounded financial investigation
 
 <br/>
 
@@ -546,7 +564,7 @@ I'm actively looking for collaborators on:
 <br/>
 
 <sub>
-  <b>⚡ Last updated: May 2025</b>
+  <b>⚡ Last updated: August 2026</b>
   <br/>
   <i>This README is more than a profile — it's a living document of my engineering journey.</i>
 </sub>
