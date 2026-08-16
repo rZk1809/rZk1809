@@ -3,6 +3,8 @@
 <!-- HERO SECTION — Dynamic Animated Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:161b22,50:1f6feb,75:58a6ff,100:79c0ff&height=220&section=header&text=Rohith%20Ganesh%20Kanchi&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Architecting%20Intelligence%20•%20Engineering%20the%20Future&descSize=16&descAlignY=55&descAlign=50" width="100%" />
 
+
+
 <!-- TYPING ANIMATION -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=%E2%9A%A1+ML+Engineer+%7C+Full+Stack+Developer;%F0%9F%94%AC+Research+Enthusiast+%7C+Cloud+Architect;%F0%9F%8E%AF+Building+AI+Systems+That+Matter" alt="Typing SVG" />
